@@ -65,4 +65,5 @@ Enter your message: This is a notification sent by Shashankh!
 After entering your message, it should reach the reciever in no time!
 
 The user running the `server.py` should see something like this!
+
 ![image](https://user-images.githubusercontent.com/72354934/173405302-d83d7122-69cf-449d-a06a-07dae11c9cd5.png)
